@@ -12,3 +12,7 @@ img {
     height: 300px;
     width: auto;
 }
+
+.ingredients {
+    border-width: 2px;
+}
