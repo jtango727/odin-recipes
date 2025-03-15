@@ -13,9 +13,9 @@ img {
     width: auto;
 }
 
-.ingredients {
+.ingredients, .steps {
     width: 500px;
-    margin: 20px auto;
-    padding: 50px;
+    padding: 30px;
+    margin: 20px;
     border: solid blue 2px;
 }
