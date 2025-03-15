@@ -15,6 +15,7 @@ img {
 }
 
 .ingredients, .steps {
+    background-color: aquamarine;
     width: 500px;
     padding: 30px;
     margin: 20px;
